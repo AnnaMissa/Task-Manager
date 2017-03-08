@@ -1,0 +1,6 @@
+/.idea/*
+/virt/*
+/apptask/migrations/*
+/apptask/__pycache__/*
+/taskmanager/__pycache__/*
+*.sqlite3
